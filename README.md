@@ -40,5 +40,4 @@ Open the index.html file in a web browser.
 Usage
 Upon opening the web page, the application will automatically check the internet connection status. If the user is connected, it will display the IP address and network strength. If the user is disconnected, it will indicate the status and display placeholders for the IP address and network strength.
 
-Contributing
-Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or create a pull request. Follow the guidelines in the CONTRIBUTING.md file for contributing to this project.
+

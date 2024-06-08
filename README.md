@@ -40,6 +40,7 @@ Open the index.html file in a web browser.
 Usage
 Upon opening the web page, the application will automatically check the internet connection status. If the user is connected, it will display the IP address and network strength. If the user is disconnected, it will indicate the status and display placeholders for the IP address and network strength.
 
+![_C__Users_om%20sai%20ram_Desktop_Projects_Internet%20conetcion%20detector_index html(Samsung Galaxy S8+)](https://github.com/Shivanagta/Internet-Connection-Detector/assets/118836394/9ae07ac7-f96e-4e39-b42a-93abb677c29e)
 
 
 
